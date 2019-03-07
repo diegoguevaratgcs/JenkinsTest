@@ -4,8 +4,6 @@ using namespace std;
 int main(int argc, char** argv)
 {
     int n, t1 = 0, t2 = 1, nextTerm = 0;
-
-    cout << "Enter the number of terms: ";
     n = atoi(argv[1]);
 
     cout << "Fibonacci Series till "<<n<<"Nth. term: "<<endl;
