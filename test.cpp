@@ -8,7 +8,7 @@ int main(int argc, char** argv)
     cout << "Enter the number of terms: ";
     n = atoi(argv[1]);
 
-    cout << "Fibonacci Series till Nth."<<n<<" term: ";
+    cout << "Fibonacci Series till "<<n<<"Nth. term: ";
 
     for (int i = 1; i <= n; ++i)
     {
