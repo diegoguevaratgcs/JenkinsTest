@@ -37,7 +37,7 @@ void pideCantidad()
  
 }
  
-void main()
+int main()
 {
  
     pideCantidad();
